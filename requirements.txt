@@ -4,6 +4,6 @@ numpy
 seaborn
 matplotlib
 ipykernel
-
+mlflow==2.2.2
 
 -e .
