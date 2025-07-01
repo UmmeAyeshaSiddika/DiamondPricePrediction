@@ -29,5 +29,5 @@ git push -u origin main
 """
 
 """
-git pull -u origin 
+git pull -u origin main
 """
