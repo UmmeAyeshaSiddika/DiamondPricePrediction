@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ineuron%20all/practice/after%2030.06.25/Project1/DiamondPricePrediction/mlruns/0/73b1b7496d7b40bcbdfe2c2fb5c6bb28/artifacts
+end_time: 1752285319836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73b1b7496d7b40bcbdfe2c2fb5c6bb28
+run_name: gifted-tern-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752285312598
+status: 3
+tags: []
+user_id: sarke
