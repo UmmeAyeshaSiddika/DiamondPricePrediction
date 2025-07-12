@@ -1,0 +1,22 @@
+artifact_path: file:///D:/ineuron%20all/practice/after%2030.06.25/Project1/DiamondPricePrediction/mlruns/0/models/m-013168bc2e8b44c881a5e75737fb7ded/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 3.1.1
+model_id: m-013168bc2e8b44c881a5e75737fb7ded
+model_size_bytes: 625
+model_uuid: m-013168bc2e8b44c881a5e75737fb7ded
+prompts: null
+run_id: 87b415b65d7e458f9e451a7ede43a608
+utc_time_created: '2025-07-12 02:45:58.374310'

@@ -1,0 +1,10 @@
+artifact_location: file:///D:/ineuron%20all/practice/after%2030.06.25/Project1/DiamondPricePrediction/mlruns/0/models/m-013168bc2e8b44c881a5e75737fb7ded/artifacts
+creation_timestamp: 1752288358332
+experiment_id: '0'
+last_updated_timestamp: 1752288363234
+model_id: m-013168bc2e8b44c881a5e75737fb7ded
+model_type: null
+name: model
+source_run_id: 87b415b65d7e458f9e451a7ede43a608
+status: 2
+status_message: null

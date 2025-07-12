@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/ineuron%20all/practice/after%2030.06.25/Project1/DiamondPricePrediction/mlruns/0/87b415b65d7e458f9e451a7ede43a608/artifacts
+end_time: 1752288363250
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87b415b65d7e458f9e451a7ede43a608
+run_name: luminous-kit-689
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752288358226
+status: 3
+tags: []
+user_id: sarke
