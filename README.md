@@ -38,21 +38,23 @@ Documentation
 
 local cmd
 mlflow ui
-dagshub
+"""
+"""
+# dagshub
 dagshub
 
-MLFLOW_TRACKING_URI=https://dagshub.com/sunny.savita/fsdsmendtoend.mlflow
-MLFLOW_TRACKING_USERNAME=sunny.savita
-MLFLOW_TRACKING_PASSWORD=3c2c8cd1436ad32b510cfdd84944a528ba4fb650
+MLFLOW_TRACKING_URI=https://dagshub.com/asiddikaeee/DiamondPricePrediction.mlflow
+MLFLOW_TRACKING_USERNAME=asiddikaeee
+MLFLOW_TRACKING_PASSWORD=2ecd63c6c39f96fdbc4989f552ee8d7d82e3752e
 python script.py
 
 Run this to export as env variables:
 
-export MLFLOW_TRACKING_URI=https://dagshub.com/sunny.savita/fsdsmendtoend.mlflow
+export MLFLOW_TRACKING_URI=https://dagshub.com/asiddikaeee/DiamondPricePrediction.mlflow
 
-export MLFLOW_TRACKING_USERNAME=sunny.savita
+export MLFLOW_TRACKING_USERNAME=asiddikaeee
 
-export MLFLOW_TRACKING_PASSWORD=3c2c8cd1436ad32b510cfdd84944a528ba4fb650
+export MLFLOW_TRACKING_PASSWORD=2ecd63c6c39f96fdbc4989f552ee8d7d82e3752e
 DVC cmd
 dvc init
 dvc repro
